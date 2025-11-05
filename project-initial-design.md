@@ -7,4 +7,4 @@ I'll then create a website use nextjs where you can ask a question, which ChatGP
 
 **ERD Diagram**
 
-<img width="1202" height="555" alt="image" src="https://github.com/user-attachments/assets/4fc80668-3432-4165-b4f3-eedbe31517f8" />
+![ERD Diagram for Road Races](ERD%20Diagram.png)
