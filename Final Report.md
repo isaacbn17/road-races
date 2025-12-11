@@ -10,7 +10,7 @@ My project is a website where you are able to query a database containing tens o
 ### Video Demo
 [Video Demonstration](Road%20Races%20Video%20Demo.mp4)
 
-(If this doesn't work just check out the website.)
+(Clicking "view raw" should download the video so you can watch it. I'd also recommend just checking out the website.)
 
 ### Key Learnings
 1.  **Data gathering** It took me just over 11 hours to scrape runnercard and clean the data, which is much longer than I intially expected. I learned that spot checking data for problems often decreases wasted time in when gathering and cleaning data.
